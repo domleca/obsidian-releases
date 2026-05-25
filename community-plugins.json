@@ -19250,7 +19250,7 @@
     "repo": "santiyounger/wpm-reading-time"
   },
   {
-    "id": "llm-wiki",
+    "id": "llm-wiki-plugin",
     "name": "LLM Wiki",
     "author": "Dominique Leca",
     "description": "Prompt your knowledge base privately, on your own hardware, with the model of your choice.",
